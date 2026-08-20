@@ -1,0 +1,10 @@
+var R=require("../../../chunks/[turbopack]_runtime.js")("server/app/api/track-visit/route.js")
+R.c("server/chunks/Evigo_src_app_api_track-visit_route_ts_03_oz8u._.js")
+R.c("server/chunks/0cj._next_0edbg-g._.js")
+R.c("server/chunks/0cj._@supabase_postgrest-js_dist_index_mjs_0uwvcye._.js")
+R.c("server/chunks/0cj._@supabase_auth-js_dist_module_036q43~._.js")
+R.c("server/chunks/0cj._0wc1d08._.js")
+R.c("server/chunks/[root-of-the-server]__0p6-clr._.js")
+R.c("server/chunks/Evigo__next-internal_server_app_api_track-visit_route_actions_07c8pzm.js")
+R.m("[project]/Evigo/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/Evigo/src/app/api/track-visit/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/Evigo/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/Evigo/src/app/api/track-visit/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports

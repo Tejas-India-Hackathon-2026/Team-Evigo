@@ -1,0 +1,11 @@
+{
+  "[project]/Evigo/src/components/LeafletMap.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/Evigo/src/components/LeafletMap.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/0cj._leaflet_dist_leaflet_0wxlj~l.css",
+      "static/chunks/0cj._leaflet_dist_leaflet-src_0bfw2oj.js",
+      "static/chunks/Evigo_src_components_LeafletMap_tsx_02p0qd.._.js",
+      "static/chunks/Evigo_src_components_LeafletMap_tsx_12n7x81._.js"
+    ]
+  }
+}

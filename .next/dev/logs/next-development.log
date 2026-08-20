@@ -1,0 +1,6 @@
+{"timestamp":"00:00:35.161","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:01:47.698","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:07:05.983","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:07:10.201","source":"Server","level":"ERROR","message":"[track-visit] Unexpected error: Error: SUPABASE_SERVICE_ROLE_KEY is not set. This client is server-only."}
+{"timestamp":"00:07:11.147","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:07:11.732","source":"Server","level":"ERROR","message":"[track-visit] Unexpected error: Error: SUPABASE_SERVICE_ROLE_KEY is not set. This client is server-only."}
